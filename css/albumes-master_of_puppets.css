@@ -1,0 +1,76 @@
+
+.album-logo{
+    margin-top:2px;
+    margin-bottom:2px;
+    margin-right: 20px;
+    float: right;
+    width: 52%;
+}
+.cancion{
+    font-size: 15px;
+}
+
+.live{
+    font-size: 15px;
+}
+.index{
+    width: 400px;
+    border: 1px solid white;
+    float:"left";
+    margin-left: 20px;
+}
+
+#img-met-86{
+    float: left;
+    width:40%;
+}
+
+#img-battery{
+    float: right;
+    width: 30%;
+}
+
+#img-droga{
+    float: right;
+    width: 30%;
+}
+
+#img-cthulu{
+    float: right;
+    width: 45%;
+}
+
+#img-cuco{
+    float: right;
+    width: 25%;
+}
+
+#img-cuco2{
+    float: left;
+    width: 25%;
+}
+
+#img-heroes{
+    float: right;
+    width: 28%;
+}
+
+#img-messias{
+    float: right;
+    width: 30%;
+}
+
+#img-cliff{
+    float: right;
+    width: 40%;
+}
+
+#img-damage{
+    float: right;
+    width: 22%;
+}
+
+#img-met86{
+    float: right;
+    width: 40%;
+}

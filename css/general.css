@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    background-color: #000000;
+    font-size: 20px;
+}
+a{
+    font-family: sans-serif;
+    color:white;
+}
+i{
+    font-size: 18px
+}
+img{
+    color:black;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-top: 0px;
+}
+#siderurgica{
+    alt: logo;
+    float:left;
+}
+.center{
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+}

@@ -1,0 +1,51 @@
+.index{
+    width: 400px;
+    border: 1px solid white;
+    float:"left";
+    margin-left: 20px;
+}
+
+#img-album-logo{
+    alt: album logo;
+    width:29%;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-right: 200px;
+    float: right;
+}
+#img-met-ride{
+    float:right;
+    width:30%;
+}
+#img-fire{
+    float:right;
+    width:30%;
+}
+#img-ride{
+    float:right;
+    width:35%;
+}
+#img-bell{
+    float:right;
+    width:30%;
+}
+#img-fade{
+    float:right;
+    width:40%;
+}
+#img-ice{
+    float:right;
+    width:35%;
+}
+#img-escape{
+    float:right;
+    width:40%;
+}
+#img-death{
+    float:right;
+    width:30%;
+}
+#img-call{
+    float:right;
+    width:30%;
+}

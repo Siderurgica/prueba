@@ -1,0 +1,48 @@
+img{
+    margin-top: 15px;
+}
+.index{
+    width: 400px;
+    border: 1px solid white;
+    float:"left";
+    margin-left: 20px;
+}
+#lars{
+    float: right;
+    width: 19%;
+}
+#mustaine{
+    float:left;
+    width:35%;
+}
+#mustaine2{
+    float:right;
+    width:38%;
+}
+#ass{
+    float:left;
+    width:15%;
+}
+#alcoholica{
+    float:right;
+    width:33%;
+}
+#cliff{
+    float:left;
+    width:27%;
+}
+#concierto{
+    float:right;
+    width:40%;
+}
+#napster{
+    float:left;
+    width:32%;
+}
+#monster{
+    float:right;
+    width:25%;
+}
+#img-final{
+    width:80%;
+}
